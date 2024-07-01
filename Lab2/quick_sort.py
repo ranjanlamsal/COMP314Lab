@@ -1,3 +1,5 @@
+#quick_sort.py
+
 def partition(arr, low, high):
     pivot = arr[high]  # Choose the last element as pivot
     i = low - 1  
